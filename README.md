@@ -1,5 +1,5 @@
 # Traitement d'images
-Développement de fonctionnalité de base pour le traitement d'images.
+Développement de fonctionnalités de base pour le traitement d'images.
 ## Features :
 + Lire/Ecrire Une image au format BMP
 + Applique sur l’image des traitements sur les pixels (Treshold, AjustContrast, Exchange, Mask, Invert, &)
